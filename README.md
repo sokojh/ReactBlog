@@ -1,10 +1,8 @@
 # React Blog 프로젝트입니다.
 
-`React`로 연습한 BLOG 프로젝트입니다.
+`React`로 연습한 BLOG 프로젝트입니다.<br>
 <img src="/public/logo192.png">
 
-
-출처: https://cutemoomin.tistory.com/entry/Readme-파일에-이미지-넣기-마크다운-이미지 [무민은귀여워]
 ## Available Scripts
 
 In the project directory, you can run:
