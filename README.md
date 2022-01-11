@@ -1,6 +1,6 @@
 # React Blog 프로젝트입니다.
 
-``
+`React`로 연습한 BLOG 프로젝트입니다.
 <img src="/public/logo192.png">
 
 
