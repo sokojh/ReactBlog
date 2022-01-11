@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <div className="black-nav">
         <div>개발 blog</div>
-        <div className={data}>안녕하세요</div>
+        <div className={data}>?</div>
       </div>
     </div>
   );
