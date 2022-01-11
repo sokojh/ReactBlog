@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# React Blog 프로젝트입니다.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+``
+<img src="/public/logo192.png">
 
+
+출처: https://cutemoomin.tistory.com/entry/Readme-파일에-이미지-넣기-마크다운-이미지 [무민은귀여워]
 ## Available Scripts
 
 In the project directory, you can run:
